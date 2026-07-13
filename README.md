@@ -39,15 +39,6 @@ python photo_detection.py
 - Trained YOLO model weights (`best.pt`)
 - OpenCV installed (included in `requirements.txt`)
 
----
-
-### Full Updated README.md
-
-Here is the complete updated README. Please replace your entire `README.md` with this:
-
----
-
-```markdown
 # BarBeR-Project: Barcode Detection and Classification
 
 ## Project Overview
